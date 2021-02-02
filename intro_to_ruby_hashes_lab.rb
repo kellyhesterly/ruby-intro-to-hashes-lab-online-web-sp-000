@@ -49,4 +49,3 @@ def monopoly_with_fourth_tier
        four_pieces_owned: 200}},
   }
 end
-  
