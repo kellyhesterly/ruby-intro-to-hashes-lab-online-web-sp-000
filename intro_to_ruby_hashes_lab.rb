@@ -11,3 +11,9 @@ def monopoly
 		:railroads => {}
 	}
 end
+
+def monopoloy_with_second_tier
+	monopoly = {
+		:railraods => {pieces: 4}
+	}
+end
